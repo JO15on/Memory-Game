@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "asset/metal_gear_solid.png'"
+    },
+    {
+        "id": 2,
+        "image": "asset/assassins_creed.jpg"
+    },
+    {
+        "id": 3,
+        "image": "asset/tomb_raider.png"
+    },
+    {
+        "id": 4,
+        "image": "assets/god_of_war.jpg"
+    },
+    {
+        "id": 5,
+        "image": "assets/gran_turismo.png"
+    },
+    {
+        "id": 6,
+        "image": "assets/uncharted.jpg"
+    },
+    {
+        "id": 7,
+        "image": "assets/crash_bandicoot.png"
+    },
+    {
+        "id": 8,
+        "image": "assets/last_of_us.jpg"
+    }
+]
